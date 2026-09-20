@@ -28,6 +28,12 @@ O arquivo tem uma página para cada nível e abre no [draw.io](https://app.diagr
 
 ## Como rodar
 
+Clone esse repositório em sua maquina [cadu088/desafio-arquitetura-software](https://github.com/cadu088/desafio-arquitetura-software)
+
+Navegue com o CMDER ou outro terminal até a pasta clonada
+
+Execute
+
 ```bash
 npm install
 npm run dev        # desenvolvimento, com reload
