@@ -1,3 +1,11 @@
+Todos os pontos entregáveis abaixo estão descritos neste documento. 
+Resumo dos Entregáveis: 
+1. Arquitetura do software (C4 Model/UML/Outro Diagrama no Draw.io). 
+2. Estrutura de pastas do projeto MVC. 
+3. Explicação da estrutura e dos elementos que comporão o código. 
+4. Opcional (código funcionando). 
+5. Opcional (persistência funcionando). 
+
 # API de Produtos
 
 Para esse desafio, utilizei a sugestão de criar o dominio de produto. 
