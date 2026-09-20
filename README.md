@@ -1,4 +1,4 @@
-# API de Produtos (MVC)
+# API de Produtos
 
 Para esse desafio, utilizei a sugestão de criar o dominio de produto. 
 Ele é por onde dados dos produtos serão recuperados, editados e removidos. 
